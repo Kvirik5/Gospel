@@ -77,8 +77,8 @@ ul {
 header h1 {
     display: flex;
     position: relative;
-    height: 300px;
-    width: 50%;
+    height: 260px;
+    width: 40%;
     margin: auto;
     margin-top: 5%;
     justify-content: center;
