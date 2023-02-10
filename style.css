@@ -8,6 +8,22 @@
     src: url(bpg_glaho.ttf);
 }
 
+@media screen and (max-width: 700px) {
+    header h1 {
+        height: 200px !important;
+        width: 75% !important;
+        font-size: 50px !important;
+        margin-top: 15% !important;
+    }
+    .Gospel {
+        padding-top: 15% !important;
+    }
+    footer {
+        padding-top: 21% !important;
+        padding-bottom: 21% !important;
+    }
+}
+
 html, body {
     width: 100%;
     height: 100%;
@@ -82,10 +98,6 @@ header h1 {
     padding-top: 5%;
     padding-left: 15%;
     padding-right: 15%;
-}
-
-.Bible {
-    user-select: none;
 }
 
 footer {
