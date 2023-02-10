@@ -58,14 +58,14 @@ ul {
 header h1 {
     display: flex;
     position: relative;
-    height: 240px;
+    height: 300px;
     width: 50%;
     margin: auto;
     justify-content: center;
     align-items: center;
     background-color: black;
     background-position: center;
-    font-size: 50px;
+    font-size: 75px;
     color: white;
     margin-top: 5%;
     border: 1px solid;
