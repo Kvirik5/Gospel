@@ -8,11 +8,6 @@
     src: url(bpg_glaho.ttf);
 }
 
-@font-face {
-    font-family: "Oswald";
-    src: url('https://fonts.googleapis.com/css2?family=Oswald&display=swap');
-}
-
 html, body {
     width: 100%;
     height: 100%;
