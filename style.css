@@ -77,14 +77,15 @@ header h1 {
     height: 300px;
     width: 50%;
     margin: auto;
+    margin-top: 5%;
     justify-content: center;
     align-items: center;
     background-color: black;
     background-position: center;
     font-size: 75px;
     color: white;
-    margin-top: 5%;
     border: 1px solid;
+    letter-spacing: 2px;
 }
 
 .Gospel {
