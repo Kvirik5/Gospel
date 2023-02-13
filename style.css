@@ -22,10 +22,15 @@
     .Gospel {
         font-size: 16px !important;
         padding-top: 15% !important;
+        padding-left: 10% !important;
+        padding-right: 10% !important;
     }
     footer {
         padding-top: 21% !important;
         padding-bottom: 21% !important;
+    }
+    a:hover {
+        opacity: 1 !important;
     }
 }
 
@@ -96,7 +101,6 @@ header h1 {
 }
 
 .Gospel {
-    display: flex;
     position: relative;
     justify-content: center;
     align-items: center;
@@ -106,6 +110,11 @@ header h1 {
     padding-top: 7%;
     padding-left: 15%;
     padding-right: 15%;
+}
+
+.txtlink {
+    text-decoration: underline;
+    color: aqua;
 }
 
 footer {
